@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T20:46:27.513Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 OPR/91.0.4516.106" etag="3Jowx0ns5MM0vmT4Bl5b" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-07T20:47:11.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 OPR/91.0.4516.106" etag="gOXh_SJQLIE7Jw3nfCrE" version="20.5.1" type="github">
   <diagram id="TQRBcZi4cvtwXR4SAziM" name="Page-1">
     <mxGraphModel dx="636" dy="347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
           <mxGeometry x="149" y="483" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="szDh3ZBtm015ne3NAFFg-57" value="ITINERARY_HAS_CONDUCTOR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="151" y="527" width="200" height="30" as="geometry" />
+          <mxGeometry x="153" y="526" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="szDh3ZBtm015ne3NAFFg-63" value="LINE_HAS_STOP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="150" y="570" width="120" height="30" as="geometry" />
@@ -109,9 +109,6 @@
         <mxCell id="NR4droAo5k8n28zaOfXH-27" value="&lt;u&gt;&lt;font&gt;MalfPart&lt;/font&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CFD3FF;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="161" y="506" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NR4droAo5k8n28zaOfXH-28" value="&lt;u&gt;MalfName&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CFD3FF;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="233" y="506" width="70" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="NR4droAo5k8n28zaOfXH-29" value="&lt;u&gt;VehicleID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CFD3FF;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="303" y="506" width="70" height="20" as="geometry" />
         </mxCell>
@@ -144,6 +141,9 @@
         </mxCell>
         <mxCell id="NR4droAo5k8n28zaOfXH-45" value="&lt;u&gt;LineNumber&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CFD3FF;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="375" y="415" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NR4droAo5k8n28zaOfXH-46" value="&lt;u&gt;&lt;font&gt;MalfName&lt;/font&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CFD3FF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="232" y="506" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
