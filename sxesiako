@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T21:07:59.381Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 OPR/91.0.4516.106" etag="K_NMlwNte27x2fpSu_eO" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-08T21:15:50.192Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 OPR/91.0.4516.106" etag="S7V1WUHk2qQuyoIP792n" version="20.5.3" type="github">
   <diagram id="TQRBcZi4cvtwXR4SAziM" name="Page-1">
     <mxGraphModel dx="757" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -299,8 +299,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="R7NyZ9Zat9K0o0PJpO58-13" value="DATE OF MALFUNCTION" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="347" y="553" width="160" height="30" as="geometry" />
+        <mxCell id="R7NyZ9Zat9K0o0PJpO58-13" value="DATE_OF_MALFUNCTION" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="342" y="553" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R7NyZ9Zat9K0o0PJpO58-14" value="&lt;u&gt;&lt;font&gt;MalfPart&lt;/font&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CFD3FF;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="161" y="580" width="70" height="20" as="geometry" />
