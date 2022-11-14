@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T18:20:10.030Z" agent="5.0 (Windows)" etag="GDUpTbNZpnt4aSjiV5M-" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T18:50:01.155Z" agent="5.0 (Windows)" etag="30jnzsYXb0TSOA--IUFR" version="20.5.3" type="github">
   <diagram id="TQRBcZi4cvtwXR4SAziM" name="Page-1">
     <mxGraphModel dx="910" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
         <mxCell id="NR4droAo5k8n28zaOfXH-25" value="Address" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CFD3FF;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="232" y="488" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NR4droAo5k8n28zaOfXH-26" value="Name" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CFD3FF;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="NR4droAo5k8n28zaOfXH-26" value="StopName" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CFD3FF;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="303" y="488" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NR4droAo5k8n28zaOfXH-27" value="&lt;u&gt;&lt;font&gt;MalfPart&lt;/font&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CFD3FF;fontColor=#000000;" parent="1" vertex="1">
@@ -180,7 +180,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NR4droAo5k8n28zaOfXH-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1" source="NR4droAo5k8n28zaOfXH-48">
+        <mxCell id="NR4droAo5k8n28zaOfXH-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="NR4droAo5k8n28zaOfXH-48" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="463.9100000000001" y="441" as="sourcePoint" />
             <mxPoint x="370" y="378" as="targetPoint" />
